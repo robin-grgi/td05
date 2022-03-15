@@ -1,3 +1,6 @@
+fichier lisible sur le lien suivant : https://github.com/robin-grgi/td05/blob/master/compteRendu.md
+
+
 # TD 5 Primitives de base sur les fichiers/répertoires
 
 ## Comprendre le descripteurs de fichiers
